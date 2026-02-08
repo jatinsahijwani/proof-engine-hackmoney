@@ -4,7 +4,7 @@
   "description": "A zero-knowledge proof SDK for compiling Circom circuits and deploying Solidity verifiers to EVM.",
   "main": "./bin/index.js",
   "bin": {
-    "zk-ava-sdk": "./bin/cli.js"
+    "proof-engine": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
