@@ -13,7 +13,6 @@
     "zk",
     "circom",
     "snarkjs",
-    "avalanche",
     "solidity",
     "zkp"
   ],
